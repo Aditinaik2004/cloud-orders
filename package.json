@@ -1,1 +1,31 @@
+package.json 
 
+Content: 
+
+{ 
+
+  "name": "cloud-orders", 
+
+  "version": "1.0.0", 
+
+  "description": "Day 7 containerization training application", 
+
+  "main": "app.js", 
+
+  "private": true, 
+
+  "scripts": { 
+
+    "start": "node app.js", 
+
+    "test": "node --test" 
+
+  }, 
+
+  "engines": { 
+
+    "node": ">=22" 
+
+  } 
+
+} 
